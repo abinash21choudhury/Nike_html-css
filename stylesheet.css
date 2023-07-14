@@ -1,0 +1,368 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color: "white";
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+#jor
+{
+	width: 50px;
+	height: 50px;
+}
+nav
+{
+	padding: 1px;
+	display: flex;
+	
+	
+}
+nav ul
+{
+	display: flex;
+	gap:8rem;
+	
+	
+}
+ul li
+{
+	list-style-type: none;
+	
+}
+.find
+{
+	text-decoration: none;
+	color: slategray;
+}
+.help
+{
+	text-decoration: none;
+	color: slategray;
+}
+.join
+{
+	text-decoration: none;
+	color: slategray;
+}
+.sign
+{
+	text-decoration: none;
+	color: slategray;
+}
+#logo
+{
+	width: 60px;
+	height: 60px;
+}
+ul
+{
+	display: flex;
+	gap:8rem;
+	padding-top: 10px;
+	
+}
+#top
+{
+	background-color: black;
+	width: 1800px;
+	display: flex;
+	padding-left: 10px;
+}
+.new
+{
+	text-decoration: none;
+	color: white;
+}
+.men
+{
+	
+	text-decoration: none;
+	color: white;
+}
+.women
+{
+	text-decoration: none;
+	color: white;
+}
+.kids
+{
+	text-decoration: none;
+	color: white;
+}
+.sales
+{
+	text-decoration: none;
+	color: white;
+}
+.bag
+{
+	width: 25px;
+	height: 25px;
+	
+}
+#center-section{
+	display: flex;
+	justify-content: center;
+	
+}
+#shop-btn
+{
+	padding: 8px 16px;
+	outline: none;
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+.shoes1
+{
+	width: 300px;
+	height: 300px;
+}
+.shoes2
+{
+	width: 300px;
+	height: 300px;
+}
+.shoes3
+{
+	width: 300px;
+	height: 300px;
+}
+.shoes4
+{
+	width: 300px;
+	height: 300px;
+}
+.shoes10
+{
+	width: 600px;
+	height: 600px;
+}
+.shoes11
+{
+	width: 600px;
+	height: 600px;
+}
+.air
+{
+	width: 1300px;
+	height: 1300px;
+}
+#nike1
+{
+	width: 250px;
+	height: 250px;
+}
+#nike2
+{
+	width: 250px;
+	height: 250px;
+}
+#nike3
+{
+	width: 250px;
+	height: 250px;
+}
+#nike4
+{
+	width: 250px;
+	height: 250px;
+}
+#nike5
+{
+	width: 250px;
+	height: 250px;
+}
+#men1
+{
+	width: 250px;
+	height: 250px;
+}
+#men2
+{
+	width: 250px;
+	height: 250px;
+}
+#men3
+{
+	width: 250px;
+	height: 250px;
+}
+#men4
+{
+	width: 250px;
+	height: 250px;
+}
+#men5
+{
+	width: 250px;
+	height: 250px;
+}
+#outfit1
+{
+	width: 450px;
+	height: 450px;
+}
+#outfit2
+{
+	width: 450px;
+	height: 450px;
+}
+#outfit3
+{
+	width: 450px;
+	height: 450px;
+}
+.airforce
+{
+	font-weight: lighter;
+}
+.huarache
+{
+	font-weight: lighter;
+}
+.airmax
+{
+	font-weight: lighter;
+}
+.airmax5
+{
+	font-weight: lighter;
+}
+.all
+{
+	font-weight: lighter;
+}
+.customer
+{
+	font-weight: lighter;
+}
+.jor
+{
+	font-weight: lighter;
+}
+.run
+{
+	font-weight:lighter;
+}
+.tab1
+{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 40px;
+}
+.tab2
+{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 40px;
+}
+.clothing
+{
+	font-weight: lighter;
+}
+.modest
+{
+	font-weight: lighter;
+}
+.hoodies
+{
+	font-weight: lighter;
+}
+.shirt
+{
+	font-weight: lighter;
+}
+.infant
+{
+	font-weight: lighter;
+}
+.kidss
+{
+	font-weight: lighter;
+}
+.kidsss
+{
+	font-weight: lighter;
+}
+.basket
+{
+	font-weight: lighter;
+}
+.tab3
+{
+	padding-top: 10px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 40px;
+}
+.footer
+{
+	background-color: black;
+	width: 1500px;
+	height: 350px;
+	padding-left: 30px;
+	padding-top: 25px;
+	display:flex;
+}
+#tab5
+{
+	color: white;
+}
+#tab6
+{
+	color: white;
+	margin-left: 300px;
+	padding-top: 55px;
+}
+.stat
+{
+	font-weight: lighter;
+}
+.ret
+{
+	font-weight: lighter;
+}
+.pay
+{
+	font-weight: lighter;
+}
+.con
+{
+	font-weight: lighter;
+}
+.other
+{
+	font-weight: lighter;
+}
+#tab7
+{
+	color: white;
+	margin-left: 300px;
+	padding-top: 40px;
+}
+.news
+{
+	font-weight: lighter;
+	
+}
+.car
+{
+	font-weight: lighter;
+}
+.invest
+{
+	font-weight: lighter;
+	
+	
+}
+.sus
+{
+	font-weight: lighter;
+}
+.trending-class{
+	border: 3px solid black;
+	margin-left: 100px;
+}
